@@ -48,7 +48,7 @@ export default {
           date: 'July 22, 2022',
           time: '11:00',
           petsAllowed: false,
-          organizer: 'Carey Wales'
+          organizer: 'Carey Walesz'
         }
       ]
     }
