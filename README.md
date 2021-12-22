@@ -1,4 +1,4 @@
-# demoapp
+# real-world-vue
 
 ## Project setup
 ```
